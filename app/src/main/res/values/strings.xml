@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Film Catalog</string>
+    <string name="instructions">Select a movie to watch his cover</string>
+    <string name="gravity">Gravity</string>
+    <string name="jumanji">Jumanji</string>
+    <string name="lion_king">The Lion King</string>
+    <string name="star_wars">Star Wars</string>
+    <string name="inception">Inception</string>
+    <string name="toy_story">Toy Story</string>
+</resources>
